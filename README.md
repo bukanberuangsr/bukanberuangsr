@@ -1,4 +1,6 @@
-<h1 align="center">Hello!</h1>
+<h1 align="center">
+  <img src="banner1.png">
+</h1>
 
 ## Current Stats
 
