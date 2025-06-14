@@ -2,7 +2,7 @@
   <img src="banner1.png">
 </h1>
 
-## Current Stats
+## 📊 Current Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -14,7 +14,7 @@
   </a>
 </div>
 
-## Tech Stacks
+## ⚙️ Tech Stacks
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
