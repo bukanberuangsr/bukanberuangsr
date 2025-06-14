@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img src="banner1.png">
-</h1>
+</p>
 
 ## 📊 Current Stats
 
