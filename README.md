@@ -2,17 +2,10 @@
   <img src="banner1.png">
 </h1>
 
-## 📊 Current Stats
+## 👨‍💻 About me
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bukanberuangsr&show_icons=true&theme=radical" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bukanberuangsr&layout=compact&langs_count=8&card_width=340&theme=radical" />
-  </a>
-</div>
+- Interested and passionate in Frontend Development and UI/UX
+- Currently learning Vue.js
 
 ## ⚙️ Tech Stacks
 
@@ -38,3 +31,15 @@
 ![Helix](https://img.shields.io/badge/Helix-%2328153e.svg?style=for-the-badge&logo=helix&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+
+## 📊 Current Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bukanberuangsr&show_icons=true&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bukanberuangsr&layout=compact&langs_count=8&card_width=340&theme=radical" />
+  </a>
+</div>
