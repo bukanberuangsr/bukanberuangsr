@@ -1,13 +1,13 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="banner1.png">
-</h1>
+</h1> -->
 
-## 👨‍💻 About me
+# About me
 
 - Interested and passionate in Frontend Development and UI/UX
 - Currently learning Vue.js
 
-## ⚙️ Tech Stacks
+## Tech Stacks
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
