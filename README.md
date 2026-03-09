@@ -5,7 +5,7 @@
 # About me
 
 - Interested and passionate in Frontend Development and UI/UX
-- Currently learning Rust, React.js, Next.js
+- Currently learning golang and rust
 
 ## Tech Stacks
 
