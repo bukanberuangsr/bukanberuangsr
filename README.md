@@ -1,6 +1,4 @@
-<!-- <h1 align="center">
-  <img src="banner1.png">
-</h1> -->
+<img src="banner1.png">
 
 # About me
 
