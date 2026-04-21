@@ -4,11 +4,42 @@
 
 # About me
 
+- An IT student at Universitas Brawijaya
 - Interested and passionate in Frontend Development and UI/UX
-- Currently learning golang and rust
+- Currently learning golang, gin, and rust
 
 ## Tech I have used
 
+```sh
+~/scripts/
+❯ sh tech.sh
+.
+├── Frontend
+│   ├── HTML
+│   ├── CSS
+│   ├── Javascript
+│   └── Vue.js
+├── Backend
+│   ├── PHP
+│   ├── Laravel
+│   ├── Golang
+│   └── Java
+├── Tools
+│   ├── Git
+│   ├── Docker
+│   ├── Postman
+│   ├── Figma
+│   ├── Unity
+│   ├── Godot
+│   └── Fedora Linux
+├── Database
+│   ├── Postgres
+│   ├── Mysql
+│   └── Mongodb
+└── ...
+```
+
+<!--
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -18,7 +49,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+-->
 <!--
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
