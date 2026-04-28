@@ -9,8 +9,6 @@ Currently learning Golang, gin, and Rust
 ## Tech I have used
 
 ```sh
-~/scripts/
-❯ sh tech.sh
 .
 ├── Frontend
 │   ├── HTML
