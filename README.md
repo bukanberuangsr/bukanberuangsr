@@ -3,7 +3,7 @@
 # About me
 
 - An IT student at Universitas Brawijaya
-- Interested and passionate in Frontend Development and UI/UX
+- Interested and passionate in Front-End Development, Game Development, and UI/UX
 - Currently learning golang, gin, and rust
 
 ## Tech I have used
